@@ -1,4 +1,4 @@
-const button = document.getElementById("bar");
+const button = document.getElementById("selector-bar");
 button.addEventListener("click", myFunction);
 
 function myFunction() {
