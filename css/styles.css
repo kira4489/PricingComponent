@@ -46,12 +46,8 @@ h1 {
 }
 
 li {
-  /* color: hsl(232, 11%, 60%); */
-  /* border-top: 1px solid; */
-  /* margin-top: 20px; */
-    color: hsl(232, 11%, 60%);
-    border-top: 1px solid;
-    /* margin-top: 20px; */
+ border-top: 1px solid;
+   font-size: 13px;
     border-color: hsl(231, 23%, 84%);
     list-style: none;
     position: relative;
